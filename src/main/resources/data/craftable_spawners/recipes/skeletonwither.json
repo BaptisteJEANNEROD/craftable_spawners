@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_sword"
+    },
+    "1": {
+      "item": "minecraft:bone"
+    },
+    "2": {
+      "item": "minecraft:stone_sword"
+    },
+    "3": {
+      "item": "minecraft:bone"
+    },
+    "4": {
+      "item": "minecraft:egg"
+    },
+    "5": {
+      "item": "minecraft:bone"
+    },
+    "6": {
+      "item": "minecraft:stone_sword"
+    },
+    "7": {
+      "item": "minecraft:bone"
+    },
+    "8": {
+      "item": "minecraft:stone_sword"
+    }
+  },
+  "result": {
+    "item": "minecraft:wither_skeleton_spawn_egg",
+    "count": 1
+  }
+}
